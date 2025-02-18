@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,smray2,Ray,Seth
 employee,sashah7,Shah,Sakshi
